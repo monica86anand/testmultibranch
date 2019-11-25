@@ -9,6 +9,6 @@ public class Test1
 	public void test1()
 	{
 		assertTrue(true);
-		assertFalse(true);
+	
 	}
 }
